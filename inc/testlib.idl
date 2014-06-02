@@ -1,0 +1,14 @@
+/*******************************************************************
+ *
+ * Name        	: testlib.cpp
+ * Author      	: stawjmic
+ * Version     	:
+ * Description 	: IDL file
+ *
+ ********************************************************************/
+
+#include "AEEStdDef.idl"
+
+interface testlib {
+   long function(in sequence<long> array, rout long long result);
+};

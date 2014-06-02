@@ -1,0 +1,10 @@
+obj/*
+bin/*
+gen/*
+.settings/*
+.project
+.cproject
+Shared-*
+Static-*
+*.class
+*.o
